@@ -1,1 +1,1 @@
-
+Bulding a dynamic digital platform enabling a community of authors to register and contribute their expertise, fostering a collaborative environment for the publication of a diverse range of articles.
